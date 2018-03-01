@@ -1,6 +1,6 @@
 # Multiplatform application skeleton project
 
-## Platforms
+## Supported Platforms
 
 - iOS (React Native)
 - Android (React Native)
@@ -8,11 +8,11 @@
 
 ## Key libraries used
 
-- Typescript
-- Expo
-- React
-- React Native
-- React Native Web
+- Typescript (2.7.2)
+- Expo (25.0.0)
+- React (16.2.0)
+- React Native (0.52.0)
+- React Native Web (0.5.1)
 
 
 # Original README.md content below:
